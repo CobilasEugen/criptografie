@@ -170,12 +170,12 @@ namespace CriptoWF
                     }
                 case "DES":
                     {
-                        MessageBox.Show("sorry didnt implement this one chose another one");
+                        MessageBox.Show("");
                         break;
                     }
                 case "RC2":
                     {
-                        MessageBox.Show("sorry didnt implement this one chose another one");
+                        MessageBox.Show("");
                         break;
                     }
                 case "Rijnadel":
@@ -188,7 +188,7 @@ namespace CriptoWF
                     }
                 case "TripleDES":
                     {
-                        MessageBox.Show("sorry didnt implement this one chose another one");
+                        MessageBox.Show("");
                         break;
                     }
             }
