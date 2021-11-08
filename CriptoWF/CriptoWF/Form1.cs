@@ -162,7 +162,7 @@ namespace CriptoWF
             {
                 case "Aes":
                     {
-                        Aes aes = new Aes(Encoding.ASCII.GetBytes(key), Encoding.ASCII.GetBytes(IV), mode, padding);
+                        Aes aes = new Aes( mode, padding);
                         decrypted = aes.Decrypt(encrypted);
                         WriteFile(false);
                         WriteOnTextBox(false);
@@ -180,7 +180,7 @@ namespace CriptoWF
                     }
                 case "Rijnadel":
                     {
-                        Rijndael aes = new Rijndael(Encoding.ASCII.GetBytes(key), Encoding.ASCII.GetBytes(IV), mode, padding);
+                        Rijndael aes = new Rijndael( mode, padding);
                         decrypted = aes.Decrypt(encrypted);
                         WriteFile(false);
                         WriteOnTextBox(false);
