@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.exe
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.deps.json
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.runtimeconfig.json
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.runtimeconfig.dev.json
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.dll
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\bin\Debug\netcoreapp3.1\CriptoWF.pdb
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.Form1.resources
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.AssemblyInfo.cs
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.dll
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.pdb
+C:\Users\Home\source\repos\criptografie\CriptoWF\CriptoWF\obj\Debug\netcoreapp3.1\CriptoWF.genruntimeconfig.cache
